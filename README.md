@@ -1,5 +1,5 @@
 # Academy-Course-NPL27062
-Supporting material for the Open Risk Academy course "Introduction to the EBA NPL Templates"
+Supporting material for the Open Risk Academy course "[Introduction to the EBA NPL Templates](https://www.openriskacademy.com/course/view.php?id=62)". Course Description [available here](https://www.openriskmanagement.com/academy-courses/intro-to-eba-npl-templates/)
 
 * EBA - NPL Transaction Template - SME Corporate.xlsx, a spreadsheet structured according to the proposed template (1.1 version)
 * EBA - NPL Transaction Template Instructions.pdf, a pdf file with instructions for the usage of the eba npl transaction templates
