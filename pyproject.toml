@@ -1,0 +1,7 @@
+[project]
+name = "academy-course-npl27062"
+version = "0.1.0"
+description = "Supporting material for the Open Risk Academy course Introduction to the EBA NPL Templates"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
